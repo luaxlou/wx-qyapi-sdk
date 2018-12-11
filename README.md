@@ -4,7 +4,7 @@
 
 1. set os env CORP_ID
 2. set os env CORP_SECRET (企业秘钥或者APP秘钥，详见微信企业内部开发文档)
-3. then see [message_test.go](https://github.com/luaxlou/wx-qyapi-sdk/inner/message_test.go)
+3. then see [message_test.go](https://github.com/luaxlou/wx-qyapi-sdk/blob/master/inner/message_test.go)
 
 ## feature list
 
